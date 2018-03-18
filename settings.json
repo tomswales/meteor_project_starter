@@ -1,0 +1,11 @@
+{
+  "public": {
+
+  },
+  "private": {
+    "login" : {
+              "guest_username": "user",
+              "guest_password": "123"
+          }
+  }
+}
